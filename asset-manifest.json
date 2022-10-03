@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/daniel-dino-jumper/static/css/main.0a13379c.css",
+    "main.js": "/daniel-dino-jumper/static/js/main.2daafe4c.js",
+    "static/js/787.100bf30e.chunk.js": "/daniel-dino-jumper/static/js/787.100bf30e.chunk.js",
+    "static/media/dino-jumping.png": "/daniel-dino-jumper/static/media/dino-jumping.c5e4689772fc5fd2febb.png",
+    "static/media/dino-running.png": "/daniel-dino-jumper/static/media/dino-running.6dc940aebec9add854e1.png",
+    "static/media/dino-idle.png": "/daniel-dino-jumper/static/media/dino-idle.27a6eecd3032ecebbdab.png",
+    "static/media/train.png": "/daniel-dino-jumper/static/media/train.5d9c66d7aa4ddb01262a.png",
+    "static/media/volcano.png": "/daniel-dino-jumper/static/media/volcano.d886cb648951e6634ae4.png",
+    "static/media/ground.png": "/daniel-dino-jumper/static/media/ground.ddd821aea5c769cdb437.png",
+    "static/media/clouds.png": "/daniel-dino-jumper/static/media/clouds.83d6fc7a120f874b0faf.png",
+    "static/media/hills-3.png": "/daniel-dino-jumper/static/media/hills-3.53abc33390b89d3679e4.png",
+    "static/media/hills-2.png": "/daniel-dino-jumper/static/media/hills-2.268acfd3f166538bd683.png",
+    "static/media/hills-1.png": "/daniel-dino-jumper/static/media/hills-1.6d02e2f83a73e8ec4e53.png",
+    "index.html": "/daniel-dino-jumper/index.html",
+    "main.0a13379c.css.map": "/daniel-dino-jumper/static/css/main.0a13379c.css.map",
+    "main.2daafe4c.js.map": "/daniel-dino-jumper/static/js/main.2daafe4c.js.map",
+    "787.100bf30e.chunk.js.map": "/daniel-dino-jumper/static/js/787.100bf30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a13379c.css",
+    "static/js/main.2daafe4c.js"
+  ]
+}
